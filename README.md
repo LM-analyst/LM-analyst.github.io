@@ -9,3 +9,6 @@ https://github.com/LM-analyst/OA-Transitions-Project
 
 - Institution sales agreements monitoring:
 https://github.com/LM-analyst/Institutional-Agreements-Monitoring
+
+- Montitoring and analysing journals of interest:
+https://github.com/LM-analyst/Journal-KPI-Analysis
