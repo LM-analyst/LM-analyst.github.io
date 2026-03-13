@@ -5,4 +5,5 @@ Detail-oriented data professional currently working in publishing operations. Pa
 
 # Projects
 https://github.com/LM-analyst/OA-Transitions-Project
+
 https://github.com/LM-analyst/Institutional-Agreements-Monitoring
