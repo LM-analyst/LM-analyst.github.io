@@ -14,4 +14,4 @@ https://github.com/LM-analyst/Institutional-Agreements-Monitoring
 https://github.com/LM-analyst/Journal-KPI-Analysis
 
 - Analysis of journal print and distribution locations:
-https://github.com/LM-analyst/Printing-and-Distribution-Analysis
+https://github.com/LM-analyst/Analysis-of-Journal-Print-and-Distribution
