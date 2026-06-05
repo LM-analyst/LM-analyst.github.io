@@ -1,7 +1,7 @@
 # LM-analyst.github.io
 
 # Profile
-Detail-oriented data professional currently working in publishing operations. Passionate about optimising efficiency and supporting evidence-based decision making through high quality data analysis. 
+Detail-oriented data professional with experience across publishing operations and education sectors. Passionate about optimising efficiency and supporting evidence-based decision making through high quality data analysis. 
 
 # Projects
 - [Open Access transition analysis](https://github.com/LM-analyst/OA-Transitions-Project)
